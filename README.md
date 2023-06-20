@@ -1,2 +1,0 @@
-# excersise-sql
-# excersise-sql
